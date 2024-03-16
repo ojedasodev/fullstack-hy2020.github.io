@@ -1196,6 +1196,8 @@ export default App
 
 Expand your application so that it shows more statistics about the gathered feedback: the total number of collected feedback, the average score (good: 1, neutral: 0, bad: -1) and the percentage of positive feedback.
 
+
+[comment]: The average between 6,2,1 is 3 no 0.555555....
 ![average and percentage positive screenshot feedback](../../images/1/14e.png)
 
 <h4>1.8: unicafe step3</h4>
